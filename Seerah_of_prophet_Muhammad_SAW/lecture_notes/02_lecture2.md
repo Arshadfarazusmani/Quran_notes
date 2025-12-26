@@ -38,6 +38,18 @@ Historians categorize Arabs into three groups:
 
 ---
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+حَدَّثَنِي عُبَيْدُ بْنُ إِسْمَاعِيلَ، عَنْ أَبِي أُسَامَةَ، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي سَعِيدُ بْنُ أَبِي سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ أَكْرَمُ النَّاسِ قَالَ ‏"‏ أَتْقَاهُمْ لِلَّهِ ‏"‏‏.‏ قَالُوا لَيْسَ عَنْ هَذَا نَسْأَلُكَ‏.‏ قَالَ ‏"‏ فَأَكْرَمُ النَّاسِ يُوسُفُ نَبِيُّ اللَّهِ ابْنُ نَبِيِّ اللَّهِ ابْنِ نَبِيِّ اللَّهِ ابْنِ خَلِيلِ اللَّهِ ‏"‏‏.‏ قَالُوا لَيْسَ عَنْ هَذَا نَسْأَلُكَ‏.‏ قَالَ ‏"‏ فَعَنْ مَعَادِنِ الْعَرَبِ تَسْأَلُونِي، النَّاسُ مَعَادِنُ خِيَارُهُمْ فِي الْجَاهِلِيَّةِ خِيَارُهُمْ فِي الإِسْلاَمِ إِذَا فَقِهُوا ‏"‏‏.‏ حَدَّثَنِي مُحَمَّدُ بْنُ سَلَامٍ أَخْبَرَنَا عَبْدَةُ عَنْ عُبَيْدِ اللَّهِ عَنْ سَعِيدٍ عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِهَذَا
+
+Narrated Abu Huraira: Allah's Messenger (ﷺ) was asked, "Who is the most honorable amongst the people?" He replied, "The most Allah fearing." The people said, "We do not want to ask you about this." He said, "The most honorable person is Joseph, Allah's Prophet, the son of Allah's Prophet, the son of Allah's Prophet, the son of Allah's Khalil" The people said, 'We do not want to ask you about this." He said," Then you want to ask me about the origins of the Arabs? People are of various origins. The best in the prelslamic period are the best in Islam, provided they comprehend (the religious knowledge).
+
+Sahih al-Bukhari 3383
+https://sunnah.com/bukhari:3383
 ## 🏛️ 4. The Tribe of Quraish
 The Quraish was the most powerful and respected tribe due to their service to the **Ka'bah**.
 
